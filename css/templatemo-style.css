@@ -284,7 +284,7 @@ header .social-icon li a {
 /* end team */
 
 /* start service */
-#service .col-md-4 {
+/* #service .col-md-4 {
   padding: 40px;
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
@@ -311,7 +311,14 @@ header .social-icon li a {
   font-weight: 600;
   padding-top: 10px;
   padding-bottom: 14px;
-}
+} */
+
+/* .section-content {
+  width: 90%;
+  max-width: 1100px;
+  margin: auto;
+  background: red;
+} */
 /* end service */
 
 /* start portfolio */
