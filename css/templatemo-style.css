@@ -167,8 +167,8 @@ header .social-icon li a {
   position: fixed;
 }
 .navbar-default .navbar-brand {
-  font-weight: 500;
-  font-size: 30px;
+  font-weight: 700;
+  font-size: 22px;
   height: 70px;
   line-height: 40px;
   padding: 12px 0px 0px 12px;
@@ -260,7 +260,7 @@ header .social-icon li a {
 /* end about */
 
 /* start team */
-#team .team-wrapper {
+/* #team .team-wrapper {
   background: #404040;
   padding-bottom: 10px;
   -webkit-transition: all 0.4s ease-in-out;
@@ -280,7 +280,7 @@ header .social-icon li a {
   display: block;
   font-weight: bold;
   padding-bottom: 12px;
-}
+} */
 /* end team */
 
 /* start service */
